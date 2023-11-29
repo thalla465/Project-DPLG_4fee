@@ -9,4 +9,4 @@ membuat pa sigit senang
 RIZAL--------
 membuat kodingan mesin kasir
 KEVIN--------
-membuat kope untuk masing masing anggota
+membuat kopi untuk masing masing anggota
